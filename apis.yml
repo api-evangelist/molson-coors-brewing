@@ -1,7 +1,12 @@
 aid: molson-coors-brewing
-url: https://raw.githubusercontent.com/api-evangelist/molson-coors-brewing/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/molson-coors-brewing/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.molson-coors-brewing.com
+description: >-
+  Molson Coors Brewing Company is one of the world's largest brewers, with a portfolio
+  of beers including Coors Light, Miller Lite, Coors Banquet, Blue Moon, Carling,
+  and many others.
