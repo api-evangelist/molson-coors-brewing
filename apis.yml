@@ -19,10 +19,14 @@ url: >-
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/molson-coors-brewing-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/molson-coors
   - type: Website
     url: https://www.molsoncoors.com
+  - url: https://www.molsoncoors.com/rss.xml
+    type: Blog
 maintainers:
   - FN: API Evangelist
     email: info@apievangelist.com
