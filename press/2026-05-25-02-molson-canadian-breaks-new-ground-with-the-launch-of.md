@@ -1,7 +1,9 @@
 ---
 title: Molson Canadian breaks new ground with the launch of ...
 url: https://www.prnewswire.com/news-releases/molson-canadian-breaks-new-ground-with-the-launch-of-molson-canadian-cider-512560441.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Molson Coors Brewing" press release artificial intelligence'
 position: 2
 source: serpapi-google
